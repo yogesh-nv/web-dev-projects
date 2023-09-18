@@ -1,0 +1,50 @@
+#title,#description{
+	text-align: center;
+	padding: auto;
+  }
+  fieldset{
+	height: 1750px;
+	width: 700px;
+	margin: auto;
+	background-color:#AAAA00;
+	
+  }
+  body{
+	background-color:#00A0AF;
+  }
+  label{
+	display: block;
+	margin: 30px 40px 10px 30px ;
+	font-size: 19px;
+  
+  }
+  input[type="text"],input[type="number"],input[type="email"],select{
+	height: 35px;
+	width: 500px;
+	margin:0px 30px;
+  }
+  input[type="radio"],input[type="checkbox"]{
+	margin:0px 0px 0px 0px ;
+	display:inline;
+  
+  }
+  #comments{
+	margin: 0px 30px;
+  }
+  div.font-size{
+	font-size: small;
+  }
+  .font-size{
+	font-size:25px;
+  }
+  .placeholder-size{
+	font-size: 15px
+  }
+  input[type="submit"]{
+	margin: 80px 350px;
+	font-size:20px;
+  }
+  #dropdown{
+	font-size:15px;
+  }
+  
